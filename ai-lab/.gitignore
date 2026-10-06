@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Temp/scratch
+tmp/
+temp/
+*.swp
+*~
+
+# Dump files that are not meant to be tracked
+*.bak
+*.orig
+
+# Optional: keep out large binary dumps if they ever appear
+*.pdf
+*.zip
+*.tar.gz
+*.tgz
